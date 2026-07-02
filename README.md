@@ -1,6 +1,6 @@
 # Hi, I'm Kiran 👋
 
-**AI Developer Intern @ AspireRise Ventures** · MSc Advanced AI (University College Dublin, 2026) · Dublin, Ireland 🇮🇪
+**AI Developer Intern @ AspireRise Ventures** · MSc Advanced AI (University College Dublin, 2026) · Dublin, Ireland
 
 MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production experience architecting and deploying GenAI and agentic AI solutions serving **13,000+ users** on cloud infrastructure. Shipped production-grade RAG pipelines, multi-agent workflows, LLM inference services, and evaluation frameworks from conception to launch.
 
@@ -8,7 +8,7 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 - 🚀 Architected and deployed production-grade GenAI solutions on cloud infrastructure end-to-end — from conception to launch
 - 🎓 MSc Advanced AI graduate, UCD — coursework complete, immediately available for full-time roles
 - 🏆 ISAI Outstanding Achievement Award 2026 — for technical contributions to [joinisai.ie](https://joinisai.ie)
-- 📜 Claude Code certified (Anthropic)
+- 📜 Python Certified (University of Michigan / Coursera), C and C++ Programming Certified (Apollo Education), Claude Code certified (Anthropic), MongoDB Certified (MongoDB Learn)
 - 💬 Ask me about RAG evaluation, agentic system design, or full-stack GenAI product builds
 
 ## Tech Stack
