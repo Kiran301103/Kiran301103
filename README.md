@@ -110,6 +110,8 @@ Claude Code (Anthropic) · Python (University of Michigan / Coursera) · MongoDB
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kiran301103&theme=tokyonight&hide_border=true)
 
+![Kiran's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiran301103&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ## 🌐 Let's Connect
@@ -120,7 +122,7 @@ Claude Code (Anthropic) · Python (University of Michigan / Coursera) · MongoDB
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kiran301103.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiran301103@gmail.com)
 
-*Open to full-time AI Engineer/ Software Engineer roles in Dublin.*
+*Open to full-time AI Engineer / Software Engineer roles in Dublin.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kiran301103&color=2E9EF7&style=flat)
 
