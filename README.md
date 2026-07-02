@@ -29,6 +29,6 @@ I build production GenAI systems — RAG pipelines, agentic workflows, and full-
 
 ## Let's Connect
 
-📫 [LinkedIn](https://linkedin.com/in/kiran301103) · [Portfolio]([#](https://kiran301103.github.io/)) · [Email](kiran301103@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/kiran301103) · [Portfolio]([https://kiran301103.github.io/]) · [Email](kiran301103@gmail.com)
 
 *Open to full-time AI Engineer / GenAI / Full-Stack roles in Dublin.*
