@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kiran 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+RAG+Pipelines+%26+Agentic+Systems;MSc+Advanced+AI+%40+UCD+%7C+Dublin%2C+Ireland;Open+to+Full-Time+AI%2FGenAI+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Developer+Intern+%40+AspireRise+Ventures;Building+RAG+Pipelines+%26+Agentic+Systems;MSc+Advanced+AI+%40+UCD+%7C+Dublin%2C+Ireland;Open+to+Full-Time+AI%2FGenAI+Roles)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran301103)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kiran301103.github.io/)
@@ -51,18 +51,43 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 - Node.js/Express, Supabase, PostgreSQL with multi-system REST API integrations
 - RAG-powered chatbot (LLM inference, vector search), role-specific dashboards
 - Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types
+- 🔗 [Chatbot component](https://github.com/Kiran301103/chatbot)
 
 **Risk-Aware Health Insurance Recommender** — Production-ready RAG system
 - FAISS, BM25, and LLM reranking for personalized insurance recommendations
 - FastAPI backend services and structured document processing pipelines
 
-**Hospital Management System** — Automation systems for a healthcare client
+**[Hospital Management System](https://github.com/Kiran301103/hms)** — Automation systems for a healthcare client
 - Appointment booking, WhatsApp/email workflows, payment integrations, revenue dashboards, calendar sync
 - Structured workflows for patient data handling and contextual medical query support
 
-**Ethical Validation of Clinical AI**
+**[Ethical Validation of Clinical AI](https://github.com/Kiran301103/AI--Ethics)**
 - Reproduced and evaluated deep learning architectures across 128 benchmark datasets using TensorFlow
 - Improved classification accuracy by 1.30% using feature engineering and GPU-accelerated training pipelines
+
+**[Flutter Car Rent & Purchase App](https://github.com/Kiran301103/flutter-car-rent-and-purchase-app)** — Cross-platform mobile app for car rental and purchase
+- Built with Flutter/Dart for Android and iOS
+- End-to-end flows for browsing, renting, and purchasing vehicles
+
+**[Weather API & Train Ticket Reservation](https://github.com/Kiran301103/weather-api-and-train-ticket-reservation)** — Combined weather-data and train booking system
+- PHP-based backend integrating a weather API with a train ticket reservation workflow
+- Handles booking logic alongside live weather data lookups
+
+## 🗂️ Other Repositories
+
+| Repo | Description | Stack |
+|---|---|---|
+| [Tennis-Stoke-Classifier](https://github.com/Kiran301103/Tennis-Stoke-Classifier) | Classifies tennis strokes from data | Jupyter Notebook |
+| [LITE-Time-Series](https://github.com/Kiran301103/LITE-Time-Series) | Time series classification experiments | Python |
+| [LITE](https://github.com/Kiran301103/LITE) | Light Inception with boosTing tEchniques for Time Series Classification | — |
+| [ML-Deployment](https://github.com/Kiran301103/ML-Deployment) | ML model deployment workflows | Jupyter Notebook |
+| [multiple_disease_prediction](https://github.com/Kiran301103/multiple_disease_prediction) | ML-based multi-disease prediction system | Python |
+| [HCAI](https://github.com/Kiran301103/HCAI) | Human-Centered AI coursework project | HTML |
+| [google-Developement-Ml](https://github.com/Kiran301103/google-Developement-Ml) | Google ML development exercises | Jupyter Notebook |
+| [neetcode-submissions](https://github.com/Kiran301103/neetcode-submissions) | NeetCode.io DSA problem submissions | Python |
+| [weather-alert-using-python](https://github.com/Kiran301103/weather-alert-using-python) | Automated weather alert system | Python |
+| [virtual-visit-to-indian-pilgrimage](https://github.com/Kiran301103/virtual-visit-to-indian-pilgrimage) | Virtual tour web app | HTML |
+| [Bg_colour_change](https://github.com/Kiran301103/Bg_colour_change) | Frontend practice project | HTML |
 
 ## 🎓 Education
 
@@ -95,7 +120,7 @@ Claude Code (Anthropic) · Python (University of Michigan / Coursera) · MongoDB
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kiran301103.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiran301103@gmail.com)
 
-*Open to full-time AI Engineer / GenAI / Full-Stack roles in Dublin.*
+*Open to full-time AI Engineer/ Software Engineer roles in Dublin.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kiran301103&color=2E9EF7&style=flat)
 
