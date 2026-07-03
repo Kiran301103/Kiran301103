@@ -50,7 +50,8 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 **[Joinisai.ie](https://joinisai.ie)** — Full-stack SaaS platform for the International Student Association of Ireland
 - Node.js/Express, Supabase, PostgreSQL with multi-system REST API integrations
 - RAG-powered chatbot (LLM inference, vector search), role-specific dashboards
-- Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types  
+- Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types
+- 🔗 [Chatbot component](https://github.com/Kiran301103/chatbot)
 
 **[Risk-Aware Health Insurance Recommender](https://github.com/Kiran301103/ML-Deployment)** — Production-ready RAG system
 - FAISS, BM25, and LLM reranking for personalized insurance recommendations
@@ -63,6 +64,21 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 **[Ethical Validation of Clinical AI](https://github.com/Kiran301103/AI--Ethics)**
 - Reproduced and evaluated deep learning architectures across 128 benchmark datasets using TensorFlow
 - Improved classification accuracy by 1.30% using feature engineering and GPU-accelerated training pipelines
+
+**[Multi-Modal Breast Cancer Classification](https://github.com/insight-ucd/comp41840-project-team-4)** — Deep learning + ML fusion system *(UCD, 2026)*
+- Combined ultrasound imaging and clinical tabular data using mask-guided lesion cropping and DenseNet169 transfer learning
+- Benchmarked tabular ML models (XGBoost, LightGBM, Random Forest) with Optuna hyperparameter tuning
+- Achieved **AUC > 0.94** through multimodal late-fusion ensembling with Grad-CAM explainability and mIoU localisation
+
+**Online Glyph Classification & Mathematical Expression Recognition** — Sequence modelling for handwritten math *(UCD, 2026)*
+- Built deep learning pipelines for handwritten mathematical expression recognition using CNNs, GRU Seq2Seq, and Transformer architectures
+- Achieved **94.53% glyph classification accuracy** and 91%+ Levenshtein Accuracy on sequence generation
+- Implemented variable-length sequence handling, attention masking, teacher forcing, and mixed precision training
+
+**[AI Recommendation Trust Study](https://github.com/Kiran301103/HCAI)** — Human-Computer Interaction research *(UCD, 2026)*
+- Designed an HCI experiment studying how AI confidence levels influence user trust and purchase decisions in recommender systems
+- Built a responsive web-based experimental interface simulating AI product recommendations under confident vs. uncertain conditions
+- Ran between-subjects experimental design with hypothesis testing and t-test statistical analysis
 
 **[Flutter Car Rent & Purchase App](https://github.com/Kiran301103/flutter-car-rent-and-purchase-app)** — Cross-platform mobile app for car rental and purchase
 - Built with Flutter/Dart for Android and iOS
@@ -79,9 +95,7 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 | [Tennis-Stoke-Classifier](https://github.com/Kiran301103/Tennis-Stoke-Classifier) | Classifies tennis strokes from data | Jupyter Notebook |
 | [LITE-Time-Series](https://github.com/Kiran301103/LITE-Time-Series) | Time series classification experiments | Python |
 | [LITE](https://github.com/Kiran301103/LITE) | Light Inception with boosTing tEchniques for Time Series Classification | — |
-| [ML-Deployment](https://github.com/Kiran301103/ML-Deployment) | ML model deployment workflows | Jupyter Notebook |
 | [multiple_disease_prediction](https://github.com/Kiran301103/multiple_disease_prediction) | ML-based multi-disease prediction system | Python |
-| [HCAI](https://github.com/Kiran301103/HCAI) | Human-Centered AI coursework project | HTML |
 | [google-Developement-Ml](https://github.com/Kiran301103/google-Developement-Ml) | Google ML development exercises | Jupyter Notebook |
 | [neetcode-submissions](https://github.com/Kiran301103/neetcode-submissions) | NeetCode.io DSA problem submissions | Python |
 | [weather-alert-using-python](https://github.com/Kiran301103/weather-alert-using-python) | Automated weather alert system | Python |
