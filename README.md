@@ -50,9 +50,9 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 **[Joinisai.ie](https://joinisai.ie)** — Full-stack SaaS platform for the International Student Association of Ireland
 - Node.js/Express, Supabase, PostgreSQL with multi-system REST API integrations
 - RAG-powered chatbot (LLM inference, vector search), role-specific dashboards
-- Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types
+- Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types  
 
-**Risk-Aware Health Insurance Recommender** — Production-ready RAG system
+**[Risk-Aware Health Insurance Recommender](https://github.com/Kiran301103/ML-Deployment)** — Production-ready RAG system
 - FAISS, BM25, and LLM reranking for personalized insurance recommendations
 - FastAPI backend services and structured document processing pipelines
 
