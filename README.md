@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kiran 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+RAG+Pipelines+%26+Agentic+Systems;MSc+Advanced+AI+%40+UCD+%7C+Dublin%2C+Ireland;Open+to+Full-Time+Software+Engineer+AI+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+RAG+Pipelines+%26+Agentic+Systems;MSc+Advanced+AI+%40+UCD+%7C+Dublin%2C+Ireland;Open+to+Full-Time+Software+Engineer,+AI+Roles)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran301103)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kiran301103.github.io/)
