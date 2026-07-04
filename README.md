@@ -51,7 +51,6 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 - Node.js/Express, Supabase, PostgreSQL with multi-system REST API integrations
 - RAG-powered chatbot (LLM inference, vector search), role-specific dashboards
 - Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types
-- 🔗 [Chatbot component](https://github.com/Kiran301103/chatbot)
 
 **[Risk-Aware Health Insurance Recommender](https://github.com/Kiran301103/ML-Deployment)** — Production-ready RAG system
 - FAISS, BM25, and LLM reranking for personalized insurance recommendations
