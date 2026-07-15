@@ -111,7 +111,10 @@ Cumulative GPA: 8.89/10 (1:1 Honours equivalent)
 
 ## 📜 Certifications
 
-Claude Code (Anthropic) · Python (University of Michigan / Coursera) · MongoDB Certification (MongoDB Learn) · C and C++ Programming (Apollo Education)
+· Claude Code (Anthropic) 
+· Python (University of Michigan / Coursera) 
+· MongoDB Certification (MongoDB Learn) 
+· C and C++ Programming (Apollo Education)
 
 ## 📊 GitHub Stats
 
