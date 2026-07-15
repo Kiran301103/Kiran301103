@@ -106,7 +106,7 @@ MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production expe
 **MSc Advanced Artificial Intelligence** · University College Dublin · Sep 2025 – Present
 Advanced ML · Deep Learning · Advanced Generative AI & LLMs · AI for Health · Recommender Systems · Responsible AI · ML System Deployment · Optimisation
 
-**BTech Information Technology** · Sathyabama University, India · Aug 2021 – May 2025
+**B. Tech Information Technology** · Sathyabama University, India · Aug 2021 – May 2025
 Cumulative GPA: 8.89/10 (1:1 Honours equivalent)
 
 ## 📜 Certifications
